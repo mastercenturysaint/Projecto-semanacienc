@@ -1,0 +1,22 @@
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\bin\Debug\Projecto semanacienc.exe
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\bin\Debug\Projecto semanacienc.pdb
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\bin\Debug\Projecto semanacienc.xml
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\obj\x86\Debug\Projecto_semanacienc.Form1.resources
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\obj\x86\Debug\Projecto_semanacienc.Resources.resources
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\obj\x86\Debug\Projecto semanacienc.vbproj.GenerateResource.Cache
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\obj\x86\Debug\Projecto semanacienc.exe
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\obj\x86\Debug\Projecto semanacienc.xml
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\obj\x86\Debug\Projecto semanacienc.pdb
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\obj\x86\Debug\Projecto_semanacienc.primaria.resources
+C:\Users\academia 2\AppData\Local\Temporary Projects\Projecto semanacienc\obj\x86\Debug\Projecto_semanacienc.secundaria.resources
+C:\Users\academia 2\documents\visual studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\obj\x86\Debug\Projecto semanacienc.exe
+C:\Users\academia 2\documents\visual studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\obj\x86\Debug\Projecto semanacienc.xml
+C:\Users\academia 2\documents\visual studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\obj\x86\Debug\Projecto semanacienc.pdb
+C:\Users\academia 2\Documents\Visual Studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\bin\Debug\Projecto semanacienc.exe
+C:\Users\academia 2\Documents\Visual Studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\bin\Debug\Projecto semanacienc.pdb
+C:\Users\academia 2\Documents\Visual Studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\bin\Debug\Projecto semanacienc.xml
+C:\Users\academia 2\Documents\Visual Studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\obj\x86\Debug\Projecto_semanacienc.Form1.resources
+C:\Users\academia 2\Documents\Visual Studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\obj\x86\Debug\Projecto_semanacienc.Resources.resources
+C:\Users\academia 2\Documents\Visual Studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\obj\x86\Debug\Projecto_semanacienc.primaria.resources
+C:\Users\academia 2\Documents\Visual Studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\obj\x86\Debug\Projecto_semanacienc.secundaria.resources
+C:\Users\academia 2\Documents\Visual Studio 2010\Projects\Projecto semanacienc\Projecto semanacienc\obj\x86\Debug\Projecto semanacienc.vbproj.GenerateResource.Cache
